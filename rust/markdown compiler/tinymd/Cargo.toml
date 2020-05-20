@@ -3,6 +3,8 @@ name = "tinymd"
 version = "0.1.0"
 authors = ["Smaran Harihar <smaran.harihar@gmail.com>"]
 edition = "2018"
+description = "Rust tutorials"
+homepage = "https://github.com/smaranh/Practise/tree/master/rust/markdown%20compiler/tinymd"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
