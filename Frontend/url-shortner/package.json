@@ -1,0 +1,16 @@
+{
+	"name": "url-shortner",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "Smaran Harihar",
+	"license": "MIT",
+	"scripts": {
+		"start": "nodemon index.js"
+	},
+	"dependencies": {
+		"express": "^4.17.1"
+	},
+	"devDependencies": {
+		"short-uid": "^0.1.0"
+	}
+}
